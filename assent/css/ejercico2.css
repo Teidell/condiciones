@@ -1,0 +1,23 @@
+img {
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.imgs {
+    display: flex;
+    justify-content: space-around;
+}
+
+p{
+   text-align: center;
+}
+
+
+center{
+
+    padding-top: 10px;
+   
+}
